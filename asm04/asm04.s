@@ -1,3 +1,4 @@
+DEFAULT REL
 section .bss
     buf resb 32
 

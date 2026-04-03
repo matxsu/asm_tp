@@ -1,3 +1,4 @@
+DEFAULT REL
 section .data
     msg db "1337", 10
     msg_len equ 5

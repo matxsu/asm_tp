@@ -1,3 +1,4 @@
+DEFAULT REL
 section .data
     ok_msg db "1337", 10
 
